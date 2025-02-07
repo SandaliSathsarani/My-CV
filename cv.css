@@ -3,14 +3,17 @@ body{
 }
 
 h1{
+    background-color: rgb(238, 207, 253);
     color: darkmagenta;
+    text-align: center;
 }
 p{
     color: rgb(3, 80, 153);
 }
 h2{
     color: goldenrod;
+  
 }
-.ul{
+#skill{
     color: rgb(3, 80, 153);
 }
